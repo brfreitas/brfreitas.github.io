@@ -14,7 +14,7 @@ o Jekyll é um gerador de sites estáticos que trabalha com Makdown, HTML e CSS 
 + [RubyGems](https://rubygems.org/pages/download)
 + Linux, Unix, or Mac OS X
 
-```console
+```
 ~ $ gem install jekyll
 # este comando cria a pasta myblog iniciar o projeto na pasta
 # corrente utilizar "jekyll new ."
@@ -27,7 +27,7 @@ o Jekyll é um gerador de sites estáticos que trabalha com Makdown, HTML e CSS 
 
 ### Comandos Básicos
 
-```console
+```
 $ jekyll build
 # =>  O projeto será compilado dentro de ./_site
 
@@ -44,8 +44,7 @@ $ jekyll build --watch
 
 ### Estrutura de diretórios
 
-```console
-
+```
 .
 ├── _config.yml
 ├── _drafts
@@ -65,7 +64,6 @@ $ jekyll build --watch
 ├── _site
 ├── .jekyll-metadata
 └── index.html
-
 ```
 
 ### Principais arquivos e pastas
