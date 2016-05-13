@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /about/
+permalink: /sobre/
 ---
 
 Empreendedor, desenvolvedor de sistemas, ama a família, jiu-jitsu tecnologias web. Tem leve tendência a brincar demais com as pessoas.
