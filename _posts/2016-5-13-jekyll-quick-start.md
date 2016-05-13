@@ -44,6 +44,7 @@ $ jekyll build --watch
 ### Estrutura de diretórios
 
 ```console
+
 .
 ├── _config.yml
 ├── _drafts
@@ -63,6 +64,7 @@ $ jekyll build --watch
 ├── _site
 ├── .jekyll-metadata
 └── index.html
+
 ```
 
 ### Principais arquivos e pastas
