@@ -91,4 +91,3 @@ Grande parte desse post teve como base o site oficial que está referenciado aba
 ### Referências
 
 [Site oficial jekyll](https://jekyllrb.com/)
-[Jekyll Now](http://github.com/barryclark/jekyll-now)
