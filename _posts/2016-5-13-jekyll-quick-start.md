@@ -71,22 +71,24 @@ $ jekyll build --watch
 | Arquivos/pasta | Descrição |
 | -------------- | --------- |
 | _config.yml | Arquivo que contém dados de configuração |
-| _drafts | Nesta pasta devem ficar os posts não publicados, o formato dos nomes dos arquivos não comtem data|
+| _drafts | Nesta pasta devem ficar os posts não publicados, o formato dos nomes dos arquivos não contém data|
 | _includes | Nesta pasta devem ser colocadas as views parciais para facitilar o reuso |
-| _layouts | Nesta página ficam os templates das páginas |
+| _layouts | Nesta pasta ficam os templates das páginas |
 | _posts | Seu conteúdo dinâmico, por assim dizer. A convenção de nomenclatura desses arquivos é importante, e deve seguir o formato: **ANO-MÊS-DIA-titulo.MARKUP** |
-| _data | Os arquivos de dados que serão usados no site devem ficar aqui, o Jekyll carrega automaticamente os arquivos deste diretórios e aceita os formatos **.yml**, **.yaml**, **.json**, **.csv**, os dados ficam acessiveis via 'site.data'. Se você tiver um arquivo **membros.yml** neste diretorio, você pode acessar seus conteúdos utilizando 'site.data.membros'. |
-| _site | Este é o lugar onde o site gerado será colocado (por default). É provavelmente uma boa idéia para adicioná-lo ao seu arquivo **.gitignore**. |
+| _data | Os arquivos de dados que serão usados no site devem ficar aqui. O Jekyll carrega automaticamente os arquivos deste diretório e aceita os formatos **.yml**, **.yaml**, **.json**, **.csv** Os dados ficam acessiveis via 'site.data'. Se você tiver um arquivo **membros.yml** neste diretório poderá acessar seus conteúdos utilizando 'site.data.membros'. |
+| _site | Este é o lugar onde o site gerado será colocado (por default). É provavelmente uma boa ideia adicioná-lo ao seu arquivo **.gitignore**. |
 | index.html e outros arquivos HTML, Markdown, Textile | Desde que seja inciado com uma seção YAML o Jekyll vai compliar qualquer **.html**, **.markdown**, **Md, ou arquivo **.textile** no diretório raiz do seu site ou diretórios não listados acima.|
-| Outros arquivos e pastas | Todos os demais arquivos e pastas exceto os relacionados anateriormente, como pastas de **css** e **imagens**, arquivo **favicon.ico** |
+| Outros arquivos e pastas | Todos os demais arquivos e pastas exceto os relacionados anateriormente como pastas de **css**, **imagens** e arquivo **favicon.ico** |
 
 ### Conclusão
 
 O Jekyll é uma ferramenta muito simples e pode ser utilizado para fazer coisas bem interessantes.
 
-Um forte incentivo para utilizar o Jekyll é o próprio Github, que dá suporte a ele sendo possivel utilizar-lo em sua página, ou nas páginas dos seus projetos, Num próximo post irei relatar a experieência de criar este blog utilizando esta ferramenta.
+Um forte incentivo para utilizar o Jekyll é o próprio Github, que dá suporte a ele sendo possivel utilizá-lo em sua página, ou nas páginas dos seus projetos. Grande parte desse post teve como base o site oficial que está referenciado abaixo.
 
-Grande parte desse post teve como base o site oficial que está referenciado abaixo.
+Num próximo post irei relatar a experiência de criar este blog utilizando esta ferramenta.
+
+
 
 ### Referências
 
