@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: o Jekyll é um gerador de sites estáticos que trabalha com Makdown, HTML e CSS em ruby.
 title: Primeiros passos com Jekyll
 ---
 
@@ -89,7 +90,6 @@ Um forte incentivo para utilizar o Jekyll é o próprio Github, que dá suporte 
 
 Grande parte desse post teve como base o site oficial que está referenciado abaixo.
 
-kkkkkkk
 ### Referências
 
 [Site oficial jekyll](https://jekyllrb.com/)
