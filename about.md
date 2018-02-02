@@ -1,35 +1,18 @@
 ---
 layout: page
-title: Sobre
-permalink: /sobre/
+title: About
+permalink: /about/
 ---
 
-Empreendedor, desenvolvedor de sistemas, ama a família, jiu-jitsu tecnologias web. Tem leve tendência a brincar demais com as pessoas.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Trabalhando com desenvolvimento java a mais de 8 anos, sinto-me mais motivado hoje no aprendizado de novas linguagens menos verbosas que java.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-### Linguagens, Frameworks e outros
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-Já me aventurei em várias linguagens, frameworks e ferramentas de desenvolvimento dentre eles destacam-se:
 
-+ AngularJs
-+ ASP.NET
-+ CakePHP
-+ C#
-+ Gulp
-+ Grunt
-+ Java
-+ Javascript
-+ JSF
-+ MongoDb
-+ NodeJS
-+ Npm
-+ PHP
-+ Primefaces
-+ Python
-+ Spring
-+ Vagrant
-
-### Contato
-
-[brunofreitas7@gmail.com](mailto:brunofreitas7@gmail.com)
+[jekyll-organization]: https://github.com/jekyll
